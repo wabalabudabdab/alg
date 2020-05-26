@@ -1,2 +1,2 @@
 # alg
-testing algorythms
+classical algorythms
